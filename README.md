@@ -8,13 +8,14 @@ I was able to do much of this on my own. There were a few questions where I refe
 ## The Questions
 ### Objective 1 - Explore the items table.
 1. View the menu_items table.
+
 ![image](https://github.com/user-attachments/assets/5507e1aa-625a-43db-9db5-749d233f9dbe)
-2. Find the number of items on the menu.
-3. What are the least and most expensive items on the menu?
-4. How many Italian dishes are on the menu?
-5. What are the least and most expensive Italian dishes on the menu?
-6. How many dishes are in each category?
-7. What is the average dish price within each category?
+3. Find the number of items on the menu.
+4. What are the least and most expensive items on the menu?
+5. How many Italian dishes are on the menu?
+6. What are the least and most expensive Italian dishes on the menu?
+7. How many dishes are in each category?
+8. What is the average dish price within each category?
 
 ### Objective 2 - Explore the orders table.
 1. View the order_details table.

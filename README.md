@@ -1,7 +1,7 @@
 # SQL-Restaurant-Orders
-An SQL project set by Maven Analytics. They provide a sample dataset with details about a fictitious restaurants orders, as well as 18 questions to answer. The dataset is available at Maven Analytics' data playground page https://mavenanalytics.io/data-playground?pageSize=10
+An SQL project set by Maven Analytics. They provide a sample dataset with details about a fictitious restaurants orders, as well as 18 questions to answer. The dataset is available at Maven Analytics' data playground page, https://mavenanalytics.io/data-playground?pageSize=10
 
-I have attached the SQL queries I wrote, and I have also included screenshots showing specific queries that I found more interesting. 
+I have attached the SQL queries I wrote in the additional files. I have also included a few screenshots showing specific queries that I found more interesting. 
 
 I was able to do much of this on my own. There were a few questions where I referred to Maven Analytics' video for solutions.
 

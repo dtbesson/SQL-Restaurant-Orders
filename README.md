@@ -28,10 +28,9 @@ I was able to do much of this on my own. There were a few questions where I refe
 6. How many items were ordered within this date range?
 7. Which orders had the most number of items?
 8. How many orders had more than 12 items?
+
 Query:
-
 ![image](https://github.com/user-attachments/assets/4d9ac751-87eb-44d7-8000-dbab0d39ff68)
-
 Output:
 
 ![image](https://github.com/user-attachments/assets/212ebb81-008f-4fd9-8bb4-9eae0bad38c4)

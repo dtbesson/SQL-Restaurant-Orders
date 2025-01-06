@@ -23,14 +23,16 @@ I was able to do much of this on my own. There were a few questions where I refe
 
 ![image](https://github.com/user-attachments/assets/0917f3d6-7660-46e3-8cd4-ccd142a9b011)
 
-4. What is the date range of the table?
-5. How many orders were made within this date range?
-6. How many items were ordered within this date range?
-7. Which orders had the most number of items?
-8. How many orders had more than 12 items?
+2. What is the date range of the table?
+3. How many orders were made within this date range?
+4. How many items were ordered within this date range?
+5. Which orders had the most number of items?
+6. How many orders had more than 12 items?
 
 Query:
+
 ![image](https://github.com/user-attachments/assets/4d9ac751-87eb-44d7-8000-dbab0d39ff68)
+
 Output:
 
 ![image](https://github.com/user-attachments/assets/212ebb81-008f-4fd9-8bb4-9eae0bad38c4)
@@ -38,6 +40,7 @@ Output:
 
 ### Objective 3 - Analyse Customer Behaviour
 1. Combine the menu_items and order_details tables into a single table.
+
 Query:
 
 ![image](https://github.com/user-attachments/assets/e04205f4-a75d-4522-9cc4-e458bcfd2838)
@@ -46,10 +49,11 @@ Output:
 
 ![image](https://github.com/user-attachments/assets/ba425055-e8a5-42ba-b7aa-e0c23c04d3dd)
 
-3. What were the least and most ordered items? What categories were they in?
-4. What were the top 5 orders that spent the most money?
-5. View the details of the highest spend order. What insights can you gather from the results?
-6. View the details of the top 5 highest spend orders. What insights can you gather from the results?
+2. What were the least and most ordered items? What categories were they in?
+3. What were the top 5 orders that spent the most money?
+4. View the details of the highest spend order. What insights can you gather from the results?
+5. View the details of the top 5 highest spend orders. What insights can you gather from the results?
+   
 Query:
 
 ![image](https://github.com/user-attachments/assets/a91e45ce-fcab-4248-a117-3eec67a1999e)
